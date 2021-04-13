@@ -85,7 +85,7 @@ They claim that I am publishing racism and my personal account item
 But I do not have my personal account, I’m not racist, and you can check that and I will post clips to me personally
 Just help me please beg you I wish you a humorous arithmetic band as fast as possible
 my email : {email}
-user name : {user_name}
+user name : {user}
     """
 
 elif band == "3":
